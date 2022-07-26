@@ -56,6 +56,7 @@ automatically populated series of actions to finish the final goal.
 
 
 <!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -72,8 +73,7 @@ automatically populated series of actions to finish the final goal.
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Discussion </a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#discussion">Discussion </a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -82,11 +82,12 @@ automatically populated series of actions to finish the final goal.
 
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 ![Product Name Screen Shot][product-screenshot]
-
+<div align="center">
 GOAP stands for Goal Oriented Planning System, it is an automated planning
 system that develops based on Stanford research institute problem solver. The
 system contains several core components that allow the agent to find the most
@@ -94,6 +95,8 @@ suitable action based on the current world state and their desired goal. These
 components respectively are finite state machine, actions, world states & goals,
 planner and agent. A detailed discussion on each component implementation in this
 project will be presented in the discussion section.
+</div>
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -229,7 +232,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - pt4300@hotmail.com
+Yuting Yu - pt4300@hotmail.com
 
 Project Link: [https://github.com/pt4300/Goal-Oriented-Action-Planning-Visualization-Project](https://github.com/pt4300/Goal-Oriented-Action-Planning-Visualization-Project)
 
@@ -241,6 +244,7 @@ Project Link: [https://github.com/pt4300/Goal-Oriented-Action-Planning-Visualiza
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/pt4300/Goal-Oriented-Action-Planning-Visualization-Project.svg?style=for-the-badge
 [contributors-url]: https://github.com/pt4300/Goal-Oriented-Action-Planning-Visualization-Project/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/pt4300/Goal-Oriented-Action-Planning-Visualization-Project.svg?style=for-the-badge
